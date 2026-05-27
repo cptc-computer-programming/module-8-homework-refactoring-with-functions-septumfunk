@@ -152,6 +152,3 @@ Example:
 2. Push your work to your GitHub Classroom repository
 3. Open the automatically generated feedback pull request
 4. Submit the feedback PR link to the Canvas assignment
-
-
-
